@@ -17,10 +17,13 @@ This Power BI report provides a comprehensive and interactive overview of sales 
 
 
 **Dynamic Filtering:** A powerful combination of buttons and bookmarks with slicers enables users to quickly filter data by customer, currency, or territory, providing a dynamic and engaging experience.
+
 **Customizable Time Slicer:** A flexible time slicer allows users to drill down into specific time periods, such a month, quarter, or year.
-**Comprehensive Sales Metrics:** The report visualizes key sales metrics, including:
-**Dynamic Visual Title:** Expression-based titles that changes depending on the filter selection.
+
+**Dynamic Visual Titles:** Expression-based titles that changes depending on the filter selection.
+
 **Comprehensive Sales Metrics:** The report visualizes key sales metrics, including: 
+
 - Total sales in the selected currency
 - Total sales in the previous month
 - Total sales over the entire period
