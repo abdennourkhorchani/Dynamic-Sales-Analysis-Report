@@ -44,5 +44,3 @@ The report's data model is based on a star schema architecture, with the Sales t
 - DimDate
 - DimCurrency
 
-
-- Tables: Provide detailed data breakdowns.
