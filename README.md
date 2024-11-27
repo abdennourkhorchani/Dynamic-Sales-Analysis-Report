@@ -6,10 +6,9 @@
 This Power BI report provides a comprehensive and interactive overview of sales performance, leveraging a star schema data model. The report is designed to offer flexible insights through a user-friendly interface by taking advantage of the power of bookmarks and buttons.
 **Project Goals:** 
 
-- Visualize key sales metrics: Total sales, revenue, profit margin, and customer acquisition cost.
+- Visualize key sales metrics: Total sales vs Total sales in particular currency.
 - Track sales performance over time: Analyze historical data to identify trends and patterns.
-- Compare sales performance across different regions and product categories.
-- Identify top-performing sales representatives and underperforming areas.
+- Compare sales performance across different regions.
 - Enhance User Experience: The intuitive interface and interactive elements make the report easy to use and navigate
 
 
