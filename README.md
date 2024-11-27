@@ -38,9 +38,11 @@ This Power BI report provides a comprehensive and interactive overview of sales 
 
 The report's data model is based on a star schema architecture, with the Sales table as the fact table and the following dimension tables:
 
-DimCustomer
-DimSalesTerritory
-DimProduct
-DimDate
-DimCurrency
-Tables: Provide detailed data breakdowns.
+- DimCustomer
+- DimSalesTerritory
+- DimProduct
+- DimDate
+- DimCurrency
+
+
+- Tables: Provide detailed data breakdowns.
