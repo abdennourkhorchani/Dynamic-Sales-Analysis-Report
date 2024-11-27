@@ -27,6 +27,8 @@ This Power BI report provides a comprehensive and interactive overview of sales 
 - Sales comparison between the selected currency and other currencies
 - Sales distribution across different territories (visualized on a map)
 - Sales  comparison between the past month, quarter, and half-year
+
+  
 **Interactive Features:**
  - Slicers: Allow users to filter data based on specific criteria.
  - Drill-Down Functionality: Enable users to explore data at different levels of detail.
