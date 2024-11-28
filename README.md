@@ -62,7 +62,8 @@ Each dimension table is connected to the fact table through a 1-to-many relation
 -  **Workspace:** create a content Container that hold dashboards, reports, datasets, dataflows, and paginated reports, and provide a single location for teams to work together on Power BI projects.
 
 **Publish the report:** upload the report to the created workspace(Sales).
-
+**source:**
+**demo:**
 **Future Enhancements:**
 - **Content update:** Consider adding additional visualizations or metrics based on specific business needs.
 - **Update the data source:**  replace getting data from local excel file with a connection to sql server.
