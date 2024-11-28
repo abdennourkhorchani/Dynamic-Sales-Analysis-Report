@@ -46,7 +46,9 @@ The report's data model is based on a star schema architecture, with the Sales t
 - DimProduct
 - DimDate
 - DimCurrency
+- 
 Each dimension table is connected to the fact table through a 1-to-many relationship (screenshot in the repository)
+
 **technical Details:**
 
 - **DAX Measures:**  Several DAX measures are created and grouped in a table(#Measures) to calculate key metrics, such as Last Quarter Sales, Last Semester Sales, Products Sales,...
