@@ -46,4 +46,5 @@ The report's data model is based on a star schema architecture, with the Sales t
 - DimProduct
 - DimDate
 - DimCurrency
+Each dimension table is connected to the fact table through a 1-to-many relationship (screenshot in the repository)
 
