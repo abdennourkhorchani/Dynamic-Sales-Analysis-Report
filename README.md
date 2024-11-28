@@ -47,4 +47,24 @@ The report's data model is based on a star schema architecture, with the Sales t
 - DimDate
 - DimCurrency
 Each dimension table is connected to the fact table through a 1-to-many relationship (screenshot in the repository)
+**technical Details:**
+
+- **DAX Measures:**  Several DAX measures are created and grouped in a table(#Measures) to calculate key metrics, such as Last Quarter Sales, Last Semester Sales, Products Sales,...
+
+- **Bookmarks:** Create dynamic and interactive reports that guide users through different insights by using 7 bookmarks save specific states of your report, including filter selections, visual configurations, and page views( clear filter, Users ON/OFF, Currency ON/OFF, Territory ON/OFF).
+  
+- **Edit Interactions**  Customize how the visualizations on the report page filter and highlight each other. For example total sales last month and total sales amount cards do not interact with currency slicer.
+  
+-  **Visualizations:**  The report includes various visualizations, including bar charts, line and stacked column chart, card visuals, map chart and table.
+  
+-  **Workspace:** create a content Container that hold dashboards, reports, datasets, dataflows, and paginated reports, and provide a single location for teams to work together on Power BI projects.
+
+**Publish the report:** upload the report to the created workspace(Sales).
+
+**Future Enhancements:**
+- **Content update:** Consider adding additional visualizations or metrics based on specific business needs.
+- **Update the data source:**  replace getting data from local excel file with a connection to sql server.
+- **Data Refresh:** Schedule data refreshes to keep the report up-to-date using a gateway.
+- **Permissions:**  Control who can view and edit the report by creating roles and adjusting permissions in the workspace settings.
+- **Sales Forecasting:** Accurate predictions of future sales trends
 
