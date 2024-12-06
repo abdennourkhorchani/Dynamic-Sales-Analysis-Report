@@ -51,7 +51,7 @@ Each dimension table is connected to the fact table through a **1-to-many** rela
 
 - **DAX Measures:**  Several DAX measures are created and grouped in a table(#Measures) to calculate key metrics, such as Last Quarter Sales, Last Semester Sales, Products Sales,...
 
-- **Bookmarks:** Create dynamic and interactive reports that guide users through different insights by using 7 bookmarks that save specific states of your report, including filter selections, visual configurations, and page views( clear filter, Users ON/OFF, Currency ON/OFF, Territory ON/OFF).
+- **Bookmarks:** Create dynamic and interactive reports that guide users through different insights by using 7 bookmarks that save specific states of the report, including filter selections, visual configurations, and page views( clear filter, Users ON/OFF, Currency ON/OFF, Territory ON/OFF).
   
 - **Edit Interactions**  Customize how the visualizations on the report page filter and highlight each other. For example total sales last month and total sales amount cards do not interact with currency slicer.
   
