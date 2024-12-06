@@ -1,4 +1,4 @@
-# Dynamic-Sales-Analysis-Report
+# Power BI Project: Dynamic Sales Analysis Report
 
 **Overview:**
 
